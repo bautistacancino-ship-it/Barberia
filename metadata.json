@@ -1,0 +1,5 @@
+{
+  "name": "Barbería Elite - Gestión de Reservas",
+  "description": "Aplicación minimalista de gestión de reservas para barberías con roles de cliente, barbero y administrador.",
+  "requestFramePermissions": []
+}
